@@ -60,7 +60,7 @@ const useFetchJobs = (params, page) => {
     return () => {
       cancelToken.cancel();
     };
-  }, [params, page]);
+  }, []);
   return state;
 };
 
