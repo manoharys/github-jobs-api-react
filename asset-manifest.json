@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/github-jobs-api-react/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/github-jobs-api-react/static/js/main.6af21523.chunk.js",
+    "main.js.map": "/github-jobs-api-react/static/js/main.6af21523.chunk.js.map",
+    "runtime-main.js": "/github-jobs-api-react/static/js/runtime-main.76e5deeb.js",
+    "runtime-main.js.map": "/github-jobs-api-react/static/js/runtime-main.76e5deeb.js.map",
+    "static/js/2.5bb395d1.chunk.js": "/github-jobs-api-react/static/js/2.5bb395d1.chunk.js",
+    "static/js/2.5bb395d1.chunk.js.map": "/github-jobs-api-react/static/js/2.5bb395d1.chunk.js.map",
+    "static/js/3.5b6cb21a.chunk.js": "/github-jobs-api-react/static/js/3.5b6cb21a.chunk.js",
+    "static/js/3.5b6cb21a.chunk.js.map": "/github-jobs-api-react/static/js/3.5b6cb21a.chunk.js.map",
+    "index.html": "/github-jobs-api-react/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/github-jobs-api-react/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.5bb395d1.chunk.js.LICENSE.txt": "/github-jobs-api-react/static/js/2.5bb395d1.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/github-jobs-api-react/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76e5deeb.js",
+    "static/js/2.5bb395d1.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.6af21523.chunk.js"
+  ]
+}
