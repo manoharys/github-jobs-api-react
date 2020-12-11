@@ -1,9 +1,10 @@
 # GitHub Jobs
  utilizes GitHub jobs API 
- API link => <a href="https://jobs.github.com/api"> 
+ 
+ API link => <a href="https://jobs.github.com/api">here</a>
 
 ### check here
- <a href="https://manoharys.github.io/github-jobs-api-react/">Todo app</a>
+ <a href="https://manoharys.github.io/github-jobs-api-react/">GitHub Jobs</a>
 
 
 ## Instructions
